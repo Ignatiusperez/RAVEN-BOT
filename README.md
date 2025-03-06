@@ -27,7 +27,7 @@
 <a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+N꙰i꙰c꙰k꙰༆"><img src="https://img.shields.io/badge/Contact 𝗡𝗜𝗖𝗞༆-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
 
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Gemini.
@@ -38,27 +38,22 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 Linking/Pairing:
 ## ` Pair onrender`
-[HERE](https://pairing-raven.onrender.com)
-            Or
-## ` Pair On replit`
- <h2 align="center"> <a href="https://replit.com/@dicksonnicky50/Pairing-Raven"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+[𝗛𝗘𝗥𝗘](https://pairing-raven.onrender.com)
+            
+    
+- Fork this repo by tapping
 
-      
+  [𝗛𝗘𝗥𝗘](https://github.com/HunterNick2/RAVEN-BOT/fork) 
+
+###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
 
 
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HunterNick2/RAVEN-BOT&template=https://github.com/HunterNick2/RAVEN-BOT.git)***
+ 
 
     
 
-    
-
-- Fork this repo by tapping  [here](https://github.com/HunterNick2/RAVEN-BOT/fork)
-
-
-- Upload the creds.json that you received to the session folder.
-
-- Connect your fork to any suitable cloud host and deploy.
-
-- Add the environmental variables in .env into your hosting site for bot to work.
+- Fill in the required variables into your hosting site for bot to work.
  </h2>
      
 
@@ -73,5 +68,5 @@ Linking/Pairing:
 
 [MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
 
-Copyright (c) 2024 RAVEN-MD
+Copyright (c) 2025 RAVEN-BOT 
 

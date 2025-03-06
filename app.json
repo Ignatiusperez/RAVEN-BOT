@@ -1,6 +1,6 @@
 {
   "name": "RAVEN-BOT",
-  "description": "𝐍𝐢𝐜𝐤_𝐇𝐮𝐧𝐭𝐞𝐫 Bad influencer",
+  "description": "I don't know what I'm doing",
   "keywords": [
     "bot",
     "whatsapp",
@@ -64,38 +64,38 @@
 },
  "AUTOVIEW": {
       "description": "Input true if you want bot to automatically read status update",
-      "required": false
+      "required": true
 },
  "WA_PRESENCE": {
       "description": "Input either recording or typing. This enables bot to simulate typing or recording.",
-      "required": false
+      "required": true
 },
  "ANTILINK": {
       "description": "Input TRUE if you want bot to kick link senders",
-      "required": false
+      "required": true
 },
  "ANTILINK_ALL": {
       "description": "Input TRUE if you want bot to kick users sending any links.",
-      "required": false
+      "required": true
 },
  "ANTIBOT": {
       "description": "Input TRUE if you want bot to kick other bots from group",
       "required": false
 },
- "WELCOME": {
-      "description": "Input TRUE if you want bot to send welcome message to new members.",
-      "required": false
+ "CODE": {
+      "description": "Input you country code here without +, it Will be used to Eliminate foreigners from the group once prompted.",
+      "required": true
 },
- "ANTIFOREIGN": {
-      "description": "Input TRUE if you want bot to kick non-kenyan numbers joining.",
-      "required": false
+ "SESSION": {
+      "description": "Paste your Session id here, it is required during authenticationn.",
+      "required": true
 },
  "AUTOBIO": {
       "description": "Input TRUE if you want bot to autoupdate its about with current time and date.",
       "required": false
 },
  "APP_NAME": {
-      "description": "Input your app name that you put above.",
+      "description": "Input your app name that you put above, Must be in small letters.",
       "required": true
 },
  "STICKER_AUTHOR": {
@@ -128,6 +128,9 @@
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
